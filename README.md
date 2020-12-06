@@ -1,7 +1,11 @@
 ### Oi, bem vindo!
+
   Meu nome é Wesley, sou Engenheiro Civil de formação me especializando em Gerenciamento de Projetos (PMBOOK/AGILE).
+  
   Atualmente trabalho na SG Sistemas com ERP/Food Service desenvolvendo em Harbour/xHarbour.
+  
   No momento estudando Java Spring Web.
+  
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
