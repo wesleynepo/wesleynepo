@@ -6,8 +6,9 @@
   
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![ReactJS](https://img.shields.io/badge/-ReactJs-black?logo=react&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
+![ReactJS](https://img.shields.io/badge/-ReactJS-black?logo=nestjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-black?logo=react&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
