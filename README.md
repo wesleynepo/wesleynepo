@@ -2,7 +2,7 @@
 
   Meu nome é Wesley, sou Engenheiro Civil de formação me especializando em Gerenciamento de Projetos (PMBOOK/AGILE).
   
-  Atualmente trabalho na SG Sistemas com ERP/Food Service desenvolvendo em Harbour/xHarbour.
+  Trabalhei na SG Sistemas com ERP/Food Service desenvolvendo em Harbour/xHarbour por cerca de um ano e 10 mêses.
   
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
