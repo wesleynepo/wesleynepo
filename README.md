@@ -1,9 +1,10 @@
 ### Oi, bem vindo!
 
-  Meu nome é Wesley, sou Engenheiro Civil de formação me especializando em Gerenciamento de Projetos (PMBOOK/AGILE).
+  Meu nome é Wesley, sou Engenheiro Civil de formação e especialista em Gerenciamento de Projetos (PMBOOK/AGILE).
   
   Trabalhei na SG Sistemas com ERP/Food Service desenvolvendo em Harbour/xHarbour por cerca de um ano e 10 meses.
   
+  Atualmente trabalho na Gazin Tech como desenvolvedor Fullstack no projeto do [Ecommerce](https://www.gazin.com.br/) da empresa.
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js&logoColor=white)
